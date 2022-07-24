@@ -6,6 +6,14 @@
  ```
  npm install
  ```
+
+
+
+
+### server app.js
+```
+node app.js
+```
 ### Compiles and hot-reloads for development
 ```
 npm run serve
@@ -15,4 +23,3 @@ npm run serve
 ```
 npm run build
 ```
-
