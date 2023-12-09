@@ -1,6 +1,6 @@
-# Covid Tracker
+# AI Chat Bot
 ## Description : 
-####  Covid Tracker using CovidAPI and build using VueJS in client side and NodeJS 
+####  AI Chat Bot using cleverbot-free and ExpressJS
  ## USAGE : 
  ### install node modules using :
  ```
